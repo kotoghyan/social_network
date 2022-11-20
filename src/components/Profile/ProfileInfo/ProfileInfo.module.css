@@ -1,0 +1,15 @@
+.mainImg {
+  width: auto;
+ }  
+
+ .description {
+  margin: 0.5rem;
+ }
+
+.profileAva{
+    width: 10rem;
+
+}
+.workStatus{
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.item {
+  color: #4B77A6;
+  font-weight:bold ;
+  margin-top: 1rem;
+}
+
+.item img {
+  height: 3rem;
+ 
+  border-radius: 1rem; /* Радиус скругления */
+    box-shadow: 0 0 0 1px green, 0 0 5px #333; /* Параметры теней */
+    
+} 

@@ -1,0 +1,22 @@
+.dialog {
+    width: 10rem;
+    height: 2.5rem;
+}
+
+.dialog a{
+    text-decoration: none;
+    color: black;
+  }
+
+.dialog:hover {
+    background-color: #dee0e5;
+    font-size: 1.01rem;
+    
+}
+
+.dialog img {
+    width: 2rem;
+    height: 2rem;
+    background-color: aqua;
+    border-radius: 5rem;
+}

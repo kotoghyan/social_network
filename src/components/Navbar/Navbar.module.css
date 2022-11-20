@@ -1,0 +1,28 @@
+.nav {
+  grid-area: n;
+  margin: 0.5rem;
+  background-color: #EDEEF0;
+}
+.item{
+  width: 12rem;
+  height: 1.5rem;
+}
+.item a {
+  color: rgb(49, 49, 49);
+  text-decoration: none;
+}
+
+.item:hover {
+  background-color: #dee0e5
+}
+
+.item .navIcon{
+  width: 0.7rem;
+  padding-right: 0.4rem;
+  margin-left: 0.4rem;
+}
+
+.item a.active {
+  font-weight:500;
+  color: black;
+}
